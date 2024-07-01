@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Project5\\WebAppProj5\\WebAppProj5.csproj": {}
+  },
+  "projects": {
+    "d:\\Project5\\WebAppProj5\\WebAppProj5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Project5\\WebAppProj5\\WebAppProj5.csproj",
+        "projectName": "WebAppProj5",
+        "projectPath": "d:\\Project5\\WebAppProj5\\WebAppProj5.csproj",
+        "packagesPath": "C:\\Users\\Sneh Mulani\\.nuget\\packages\\",
+        "outputPath": "d:\\Project5\\WebAppProj5\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sneh Mulani\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
